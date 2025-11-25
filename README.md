@@ -201,3 +201,13 @@ nc: 3
 names: ["normal", "benigno", "maligno"]
 </pre>
 
+<hr />
+
+<h2>Dataset Utilizado</h2>
+
+<p>O dataset utilizado está disponível no Kaggle:</p>
+<ul>
+  <a href="https://www.kaggle.com/datasets/aryashah2k/breast-ultrasound-images-dataset?resource=download">Dataset</a>
+
+  Após o downloado do Dataset, extraia o arquivo Zip em uma pasta chamada <strong>"dataset"</strong> dentro do projeto.
+</ul>
